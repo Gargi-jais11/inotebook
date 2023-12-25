@@ -1,5 +1,4 @@
 const mongoose=require('mongoose');
-require('dotenv').config();
 //const mongooseURI="mongodb://127.0.0.1:27017/gargidataBase1";
 //console.log(mongooseURI);
 
